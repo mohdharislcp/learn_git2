@@ -1,4 +1,3 @@
 text for line1
 text for line2
 text for line3
-text for line4
