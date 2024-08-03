@@ -7,3 +7,5 @@ text for line4
 --------------
 branch1 
 text added for branch1
+
+more text added for branch1 line11
